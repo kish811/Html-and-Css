@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head> Html Form </head>
+    <body>
+
+        <form>
+            <p> First Name</p>
+            <input type="text" name="first_name" placeholder="First Name">
+            <br>
+            <br>
+<textarea name="content"></textarea>
+<select name="fruit">
+<option value="apple">Apple</option>
+<option value="Strawberry">Strawberry</option>
+<option value="Kiwi">Kiwi</option>
+<option value="Watermelon">Watermelon</option>
+
+<input type="submit">
+
+
+
+</select>
+        </form>
+        </body>
+</html>
