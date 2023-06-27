@@ -1,3 +1,4 @@
+//Index.html
 <!DOCTYPE html>
 <html>
     <head>
@@ -13,3 +14,24 @@
         <h1 class="red"> This is a red</h1>
         </body>
 </html>
+
+
+
+//example-1 STYLE.CSS
+p{
+    color: rgb(176, 207, 234);
+    font-size:13px;
+}
+body{
+    background-color: black;
+}
+div{
+    background-color: aquamarine;
+}
+#cssexample{
+    color:blueviolet;
+}
+ .red{
+
+    color: red;
+}
