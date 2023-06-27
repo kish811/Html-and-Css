@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Learning CSS</title>
+        <link rel="stylesheet" type ="text/css" href="style.css">
+         </head>
+    <body>
+        <p>This will be alice blue</p>
+        <div id="cssexample"> Div one</div>
+        <div> Div Two</div>
+        <div>Div Three</div>
+        <h1 class="red"> This is a red</h1>
+        </body>
+</html>
